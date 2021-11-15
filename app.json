@@ -1,0 +1,12 @@
+{
+	"name": "Start Spoter",
+	"description": "Start spoter worker App",
+	"stack": "container",
+	"keywords": [
+		"go",
+		"spoter",
+		"docker"
+	],
+	"website": "https://github.com/pioupiou-track/spoter",
+	"repository": "https://github.com/pioupiou-track/spoter"
+}
